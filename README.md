@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claro</h1>
-<h3 align="center">establish the geek in you with CLARO.</h3>
+<h3 align="center">organize the geek in you with CLARO.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claro&label=Profile%20views&color=0e75b6&style=flat" alt="claro" /> </p>
 
