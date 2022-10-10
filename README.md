@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/claro_in" target="blank"><img src="https://img.shields.io/twitter/follow/claro_in?logo=twitter&style=for-the-badge" alt="claro_in" /></a> </p>
 
-- 🔭 I’m currently working on **CLARO**
+- 🔭 I’m currently working on **enabling new features in CLARO**
 
 - 📫 How to reach me **claro_support@claro.in**
 
